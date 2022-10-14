@@ -10,4 +10,14 @@ sudheerasrinath/sudheerasrinath is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+Tech/Framework used
+#HTML
+#CSS
+#JS
 
+References
+#Site Map URL :- https://www.gloomaps.com/cANDsMyh4W 
+#Wire Frame URL :- https://wireframe.cc/pro/pp/98030c75b566412
+#000WebHost URL :- https://www.figma.com/file/bvIQIPtK6p6uFkCzCYVR4R/My-Portfolio(Sudheera-Srinath)?node-id=209%3A1709
+
+Developed By Sudheera Srinath
